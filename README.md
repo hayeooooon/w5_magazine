@@ -58,3 +58,7 @@
 <br/>
 
 ## 작업 내용
+
+[작업 페이지 보러가기
+](http://w5magazine.s3-website.ap-northeast-2.amazonaws.com/)
+http://w5magazine.s3-website.ap-northeast-2.amazonaws.com/
